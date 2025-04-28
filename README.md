@@ -24,7 +24,7 @@ The company is entering the aviation market and wants to avoid high-risk aircraf
 - Mechanical failure and pilot error are leading causes
 - Company should invest in models with fewer accidents and high safety ratings
 
-##*Recommendations Based on Aviation Accident Data Analysis*
+## *Recommendations Based on Aviation Accident Data Analysis*
 *1. Aircraft Type Selection*
 -Based on accident rates, Boeing 737, Airbus A320, and Cessna 172 show lower accident frequencies.
 -Prioritize acquisition of aircraft types with proven safety records to minimize accident risks.
