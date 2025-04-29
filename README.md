@@ -54,5 +54,9 @@ The company is entering the aviation market and wants to avoid high-risk aircraf
 - /dashboard: Tableau dashboard files
 - /presentation: Final presentation slides
 
-- ### *View my Iteractive tableau dashboard here;*
-## https://public.tableau.com/app/profile/kabira.kabira/viz/Iteractivedashboard/Dashboard1?publish=yes
+- ## *View my Iteractive tableau dashboard here;*
+### https://public.tableau.com/app/profile/kabira.kabira/viz/Iteractivedashboard/Dashboard1?publish=yes
+
+
+## *LinkedIn Profile:*
+### https://www.linkedin.com/in/timothy-kabira-aa2430219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
